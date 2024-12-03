@@ -36,7 +36,6 @@ abc.net.au
 crushon.ai
 cutout.pro
 prestodb.io
-macromicro.me
 x.com
 moomoo.com
 flowgpt.com
@@ -44,3 +43,5 @@ borntowin.cn
 ibm.com
 polymarket.com
 futuhk.com
+macromicro.me
+hotjar.com
